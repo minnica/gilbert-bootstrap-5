@@ -1,0 +1,34 @@
+.page-item.active .page-link {
+    background-color: #212529  !important;
+    border: 1px solid black;
+    color: white !important;
+}
+.page-link {
+    background-color: #f8f9fa !important;
+    color: black !important;
+}
+
+.dataTables_length select {
+    background-color: #f8f9fa;
+}
+.dataTables_filter input {
+    background-color: #f8f9fa;
+}
+.excel {
+    position: absolute !important;
+}
+.terminado {
+    background-color: #00E700;
+}
+.pendiente {
+    background-color: #FF0000;
+}
+.proceso {
+    background-color: #FFFF00;
+}
+.todo{
+    background-color: white;
+}
+.cancelado{
+    background-color: #0000FF;
+}
